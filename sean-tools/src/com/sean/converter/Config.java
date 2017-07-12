@@ -70,7 +70,7 @@ public class Config {
 				"converter.target.charset");
 		String filter = configUtil.getSectionProperty("converter",
 				"converter.source.filter");
-
+       System.out.println("test");
 		String[] filters = filter.split(",");
 		for (String f : filters) {
 			converterFilters.add(f);
