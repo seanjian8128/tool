@@ -1,0 +1,362 @@
+[INFO ] 2017-03-17 08:44:06,559 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:CWD_IA
+[INFO ] 2017-03-17 08:44:06,899 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: CWD_IA-to-CWD_IA count: 0 successfully
+[INFO ] 2017-03-17 08:44:06,900 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:CWD_IA_PEND
+[INFO ] 2017-03-17 08:44:07,291 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: CWD_IA_PEND-to-CWD_IA_PEND count: 5 successfully
+[INFO ] 2017-03-17 08:44:07,292 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:CWD_IB
+[INFO ] 2017-03-17 08:44:07,490 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: CWD_IB-to-CWD_IB count: 0 successfully
+[INFO ] 2017-03-17 08:44:07,490 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AA
+[INFO ] 2017-03-17 08:44:07,686 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AA-to-FAL_AA count: 0 successfully
+[INFO ] 2017-03-17 08:44:07,687 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AA_PEND
+[INFO ] 2017-03-17 08:44:07,888 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AA_PEND-to-FAL_AA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:07,888 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AA_STOCKINFO
+[INFO ] 2017-03-17 08:44:08,083 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AA_STOCKINFO-to-FAL_AA_STOCKINFO count: 0 successfully
+[INFO ] 2017-03-17 08:44:08,084 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AB
+[INFO ] 2017-03-17 08:44:08,265 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AB-to-FAL_AB count: 0 successfully
+[INFO ] 2017-03-17 08:44:08,265 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AB_PEND
+[INFO ] 2017-03-17 08:44:08,455 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AB_PEND-to-FAL_AB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:08,456 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AC
+[INFO ] 2017-03-17 08:44:08,645 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AC-to-FAL_AC count: 0 successfully
+[INFO ] 2017-03-17 08:44:08,646 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AC_PEND
+[INFO ] 2017-03-17 08:44:08,819 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AC_PEND-to-FAL_AC_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:08,819 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AD
+[INFO ] 2017-03-17 08:44:09,019 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AD-to-FAL_AD count: 0 successfully
+[INFO ] 2017-03-17 08:44:09,019 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AD_PEND
+[INFO ] 2017-03-17 08:44:09,202 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AD_PEND-to-FAL_AD_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:09,203 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AD_STOCKINFO
+[INFO ] 2017-03-17 08:44:09,437 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AD_STOCKINFO-to-FAL_AD_STOCKINFO count: 0 successfully
+[INFO ] 2017-03-17 08:44:09,438 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AE
+[INFO ] 2017-03-17 08:44:09,626 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AE-to-FAL_AE count: 0 successfully
+[INFO ] 2017-03-17 08:44:09,627 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_AE_PEND
+[INFO ] 2017-03-17 08:44:09,819 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_AE_PEND-to-FAL_AE_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:09,820 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BA
+[INFO ] 2017-03-17 08:44:10,001 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BA-to-FAL_BA count: 0 successfully
+[INFO ] 2017-03-17 08:44:10,002 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BA_PEND
+[INFO ] 2017-03-17 08:44:10,184 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BA_PEND-to-FAL_BA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:10,184 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BB
+[INFO ] 2017-03-17 08:44:10,387 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BB-to-FAL_BB count: 0 successfully
+[INFO ] 2017-03-17 08:44:10,388 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BB_PEND
+[INFO ] 2017-03-17 08:44:10,584 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BB_PEND-to-FAL_BB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:10,585 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BC
+[INFO ] 2017-03-17 08:44:10,776 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BC-to-FAL_BC count: 0 successfully
+[INFO ] 2017-03-17 08:44:10,777 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BC_PEND
+[INFO ] 2017-03-17 08:44:11,001 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BC_PEND-to-FAL_BC_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:11,002 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BD
+[INFO ] 2017-03-17 08:44:11,225 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BD-to-FAL_BD count: 0 successfully
+[INFO ] 2017-03-17 08:44:11,225 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BD_PEND
+[INFO ] 2017-03-17 08:44:11,426 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BD_PEND-to-FAL_BD_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:11,426 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BE
+[INFO ] 2017-03-17 08:44:11,618 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BE-to-FAL_BE count: 0 successfully
+[INFO ] 2017-03-17 08:44:11,620 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BE_PEND
+[INFO ] 2017-03-17 08:44:11,819 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BE_PEND-to-FAL_BE_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:11,820 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BF
+[INFO ] 2017-03-17 08:44:12,017 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BF-to-FAL_BF count: 0 successfully
+[INFO ] 2017-03-17 08:44:12,018 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_BF_PEND
+[INFO ] 2017-03-17 08:44:12,261 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_BF_PEND-to-FAL_BF_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:12,262 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_CA
+[INFO ] 2017-03-17 08:44:12,439 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_CA-to-FAL_CA count: 0 successfully
+[INFO ] 2017-03-17 08:44:12,439 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_CA_PEND
+[INFO ] 2017-03-17 08:44:12,642 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_CA_PEND-to-FAL_CA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:12,642 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_CONTRACT_TYPE
+[INFO ] 2017-03-17 08:44:12,822 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_CONTRACT_TYPE-to-FAL_CONTRACT_TYPE count: 0 successfully
+[INFO ] 2017-03-17 08:44:12,822 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DA
+[INFO ] 2017-03-17 08:44:13,012 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DA-to-FAL_DA count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,012 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DA_PEND
+[INFO ] 2017-03-17 08:44:13,191 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DA_PEND-to-FAL_DA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,192 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DB
+[INFO ] 2017-03-17 08:44:13,371 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DB-to-FAL_DB count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,371 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DB_PEND
+[INFO ] 2017-03-17 08:44:13,554 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DB_PEND-to-FAL_DB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,555 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DC
+[INFO ] 2017-03-17 08:44:13,741 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DC-to-FAL_DC count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,742 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DC_PEND
+[INFO ] 2017-03-17 08:44:13,936 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DC_PEND-to-FAL_DC_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:13,937 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DD
+[INFO ] 2017-03-17 08:44:14,139 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DD-to-FAL_DD count: 0 successfully
+[INFO ] 2017-03-17 08:44:14,139 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DE
+[INFO ] 2017-03-17 08:44:14,333 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DE-to-FAL_DE count: 0 successfully
+[INFO ] 2017-03-17 08:44:14,333 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DE_PEND
+[INFO ] 2017-03-17 08:44:14,531 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DE_PEND-to-FAL_DE_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:14,532 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DF
+[INFO ] 2017-03-17 08:44:14,719 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DF-to-FAL_DF count: 0 successfully
+[INFO ] 2017-03-17 08:44:14,720 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DF_PEND
+[INFO ] 2017-03-17 08:44:14,947 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DF_PEND-to-FAL_DF_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:14,948 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DG
+[INFO ] 2017-03-17 08:44:15,126 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DG-to-FAL_DG count: 0 successfully
+[INFO ] 2017-03-17 08:44:15,127 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DG_PEND
+[INFO ] 2017-03-17 08:44:15,312 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DG_PEND-to-FAL_DG_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:15,313 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DH
+[INFO ] 2017-03-17 08:44:15,504 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DH-to-FAL_DH count: 0 successfully
+[INFO ] 2017-03-17 08:44:15,504 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DH_PEND
+[INFO ] 2017-03-17 08:44:15,680 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DH_PEND-to-FAL_DH_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:15,681 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DJ
+[INFO ] 2017-03-17 08:44:15,860 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DJ-to-FAL_DJ count: 0 successfully
+[INFO ] 2017-03-17 08:44:15,862 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_DJ_PEND
+[INFO ] 2017-03-17 08:44:16,038 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_DJ_PEND-to-FAL_DJ_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,039 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_EA
+[INFO ] 2017-03-17 08:44:16,244 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_EA-to-FAL_EA count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,245 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_EA_PEND
+[INFO ] 2017-03-17 08:44:16,429 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_EA_PEND-to-FAL_EA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,430 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ERR_MSG
+[INFO ] 2017-03-17 08:44:16,611 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ERR_MSG-to-FAL_ERR_MSG count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,612 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_FA
+[INFO ] 2017-03-17 08:44:16,785 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_FA-to-FAL_FA count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,786 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_FA_PEND
+[INFO ] 2017-03-17 08:44:16,977 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_FA_PEND-to-FAL_FA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:16,977 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_FINANCE_CODE
+[INFO ] 2017-03-17 08:44:17,236 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_FINANCE_CODE-to-FAL_FINANCE_CODE count: 29 successfully
+[INFO ] 2017-03-17 08:44:17,237 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_GA
+[INFO ] 2017-03-17 08:44:17,424 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_GA-to-FAL_GA count: 0 successfully
+[INFO ] 2017-03-17 08:44:17,424 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_GA_PEND
+[INFO ] 2017-03-17 08:44:17,624 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_GA_PEND-to-FAL_GA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:17,624 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_GB
+[INFO ] 2017-03-17 08:44:17,837 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_GB-to-FAL_GB count: 0 successfully
+[INFO ] 2017-03-17 08:44:17,837 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_GB_PEND
+[INFO ] 2017-03-17 08:44:18,012 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_GB_PEND-to-FAL_GB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:18,013 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_HA
+[INFO ] 2017-03-17 08:44:18,197 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_HA-to-FAL_HA count: 0 successfully
+[INFO ] 2017-03-17 08:44:18,198 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_HA_PEND
+[INFO ] 2017-03-17 08:44:18,394 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_HA_PEND-to-FAL_HA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:18,394 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_HB
+[INFO ] 2017-03-17 08:44:18,576 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_HB-to-FAL_HB count: 0 successfully
+[INFO ] 2017-03-17 08:44:18,577 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_HB_PEND
+[INFO ] 2017-03-17 08:44:18,759 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_HB_PEND-to-FAL_HB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:18,760 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IA
+[INFO ] 2017-03-17 08:44:19,017 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IA-to-FAL_IA count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,018 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IA_PEND
+[INFO ] 2017-03-17 08:44:19,211 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IA_PEND-to-FAL_IA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,212 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IB
+[INFO ] 2017-03-17 08:44:19,393 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IB-to-FAL_IB count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,394 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IB_PEND
+[INFO ] 2017-03-17 08:44:19,570 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IB_PEND-to-FAL_IB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,571 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IC
+[INFO ] 2017-03-17 08:44:19,762 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IC-to-FAL_IC count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,762 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_IC_PEND
+[INFO ] 2017-03-17 08:44:19,943 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_IC_PEND-to-FAL_IC_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:19,944 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_INVESTMENT_PRODUCTS_QDII
+[INFO ] 2017-03-17 08:44:20,195 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_INVESTMENT_PRODUCTS_QDII-to-FAL_INVESTMENT_PRODUCTS_QDII count: 14 successfully
+[INFO ] 2017-03-17 08:44:20,195 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_INVESTMENT_PRODUCTS_QFII
+[INFO ] 2017-03-17 08:44:20,418 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_INVESTMENT_PRODUCTS_QFII-to-FAL_INVESTMENT_PRODUCTS_QFII count: 30 successfully
+[INFO ] 2017-03-17 08:44:20,418 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_PARAM_CHECK
+[INFO ] 2017-03-17 08:44:20,610 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_PARAM_CHECK-to-FAL_PARAM_CHECK count: 0 successfully
+[INFO ] 2017-03-17 08:44:20,611 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_PARAM_COMM
+[INFO ] 2017-03-17 08:44:20,791 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_PARAM_COMM-to-FAL_PARAM_COMM count: 0 successfully
+[INFO ] 2017-03-17 08:44:20,792 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_PARAM_TABLE
+[INFO ] 2017-03-17 08:44:20,964 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_PARAM_TABLE-to-FAL_PARAM_TABLE count: 0 successfully
+[INFO ] 2017-03-17 08:44:20,964 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_PROJECT_STANDARD
+[INFO ] 2017-03-17 08:44:21,163 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_PROJECT_STANDARD-to-FAL_PROJECT_STANDARD count: 0 successfully
+[INFO ] 2017-03-17 08:44:21,163 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_QTGLWLDM
+[INFO ] 2017-03-17 08:44:21,349 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_QTGLWLDM-to-FAL_QTGLWLDM count: 0 successfully
+[INFO ] 2017-03-17 08:44:21,349 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_XA
+[INFO ] 2017-03-17 08:44:21,541 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_XA-to-FAL_XA count: 0 successfully
+[INFO ] 2017-03-17 08:44:21,541 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_XA_PEND
+[INFO ] 2017-03-17 08:44:21,713 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_XA_PEND-to-FAL_XA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:21,714 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZA
+[INFO ] 2017-03-17 08:44:21,892 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZA-to-FAL_ZA count: 0 successfully
+[INFO ] 2017-03-17 08:44:21,892 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZA_PEND
+[INFO ] 2017-03-17 08:44:22,077 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZA_PEND-to-FAL_ZA_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:22,077 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZB
+[INFO ] 2017-03-17 08:44:22,253 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZB-to-FAL_ZB count: 0 successfully
+[INFO ] 2017-03-17 08:44:22,253 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZB_PEND
+[INFO ] 2017-03-17 08:44:22,438 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZB_PEND-to-FAL_ZB_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:22,439 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZC
+[INFO ] 2017-03-17 08:44:22,771 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZC-to-FAL_ZC count: 1 successfully
+[INFO ] 2017-03-17 08:44:22,771 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZC_INVEST
+[INFO ] 2017-03-17 08:44:22,979 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZC_INVEST-to-FAL_ZC_INVEST count: 1 successfully
+[INFO ] 2017-03-17 08:44:22,980 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZC_INVEST_PEND
+[INFO ] 2017-03-17 08:44:23,169 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZC_INVEST_PEND-to-FAL_ZC_INVEST_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:23,170 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_ZC_PEND
+[INFO ] 2017-03-17 08:44:23,344 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_ZC_PEND-to-FAL_ZC_PEND count: 0 successfully
+[INFO ] 2017-03-17 08:44:23,345 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:FAL_LOG
+[INFO ] 2017-03-17 08:44:23,704 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: FAL_LOG-to-FAL_LOG count: 6 successfully
+[INFO ] 2017-03-17 08:44:23,704 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:242)
+start transfer table:IWB_FRAME_TIMER
+[INFO ] 2017-03-17 08:44:23,931 method:com.sean.db.data.DataTransfer.transferFch(DataTransfer.java:407)
+insert table: IWB_FRAME_TIMER-to-IWB_FRAME_TIMER count: 16 successfully
+[INFO ] 2017-03-17 08:45:22,827 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:655)
+ALTER TABLE  FAL_AA_STOCKINFO ADD CONSTRAINT  FK_FAL_AA_S_FK_FAL_AA_FAL_AA  foreign key (SNOCODE) REFERENCES FAL_AA (SNOCODE) 
+[INFO ] 2017-03-17 08:45:22,829 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:658)
+ALTER TABLE  FAL_AA_STOCKINFO ADD CONSTRAINT  FK_FAL_AA_S_FK_FAL_AA_FAL_AA  foreign key (SNOCODE) REFERENCES FAL_AA (SNOCODE) 
+[INFO ] 2017-03-17 08:45:23,059 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:661)
+ALTER TABLE  FAL_AA_STOCKINFO ADD CONSTRAINT  FK_FAL_AA_S_FK_FAL_AA_FAL_AA  foreign key (SNOCODE) REFERENCES FAL_AA (SNOCODE)  successfully
+[INFO ] 2017-03-17 08:45:40,238 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:655)
+ALTER TABLE  FAL_AD_STOCKINFO ADD CONSTRAINT  FK_FAL_AD_S_FK_FAL_AD_FAL_AD  foreign key (SNOCODE) REFERENCES FAL_AD (SNOCODE) 
+[INFO ] 2017-03-17 08:45:40,239 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:658)
+ALTER TABLE  FAL_AD_STOCKINFO ADD CONSTRAINT  FK_FAL_AD_S_FK_FAL_AD_FAL_AD  foreign key (SNOCODE) REFERENCES FAL_AD (SNOCODE) 
+[INFO ] 2017-03-17 08:45:40,247 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:661)
+ALTER TABLE  FAL_AD_STOCKINFO ADD CONSTRAINT  FK_FAL_AD_S_FK_FAL_AD_FAL_AD  foreign key (SNOCODE) REFERENCES FAL_AD (SNOCODE)  successfully
+[INFO ] 2017-03-17 08:48:37,799 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:655)
+ALTER TABLE  FAL_ZC_INVEST ADD CONSTRAINT  FK_FAL_ZC_I_FK_FAL_ZC_FAL_ZC  foreign key (SNOCODE) REFERENCES FAL_ZC (SNOCODE) 
+[INFO ] 2017-03-17 08:48:37,800 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:658)
+ALTER TABLE  FAL_ZC_INVEST ADD CONSTRAINT  FK_FAL_ZC_I_FK_FAL_ZC_FAL_ZC  foreign key (SNOCODE) REFERENCES FAL_ZC (SNOCODE) 
+[INFO ] 2017-03-17 08:48:37,829 method:com.sean.db.table.TableTask.createForeignKey(TableTask.java:661)
+ALTER TABLE  FAL_ZC_INVEST ADD CONSTRAINT  FK_FAL_ZC_I_FK_FAL_ZC_FAL_ZC  foreign key (SNOCODE) REFERENCES FAL_ZC (SNOCODE)  successfully

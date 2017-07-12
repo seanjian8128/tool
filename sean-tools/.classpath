@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-io.jar" sourcepath="F:/乌鲁木齐国际结算系统/apache-maven-3.0.5/repository/commons-io/commons-io/1.3.1/commons-io-1.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/chardet.jar" sourcepath="G:/information/java/乱码问题/文件编码探测jchardet-1.1/jchardet-1.1/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/shiro-core-1.3.0.jar" sourcepath="lib/shiro-core-1.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/db2jcc.jar"/>
+	<classpathentry kind="lib" path="lib/classes12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
